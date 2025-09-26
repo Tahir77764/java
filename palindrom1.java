@@ -1,4 +1,3 @@
-package basic;
 import java.util.Scanner;
 class palindrom1{
 	public static void main(String[] args){
